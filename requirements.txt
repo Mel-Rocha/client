@@ -1,6 +1,7 @@
 annotated-types==0.5.0
 anyio==3.7.1
 asgiref==3.7.2
+astroid==2.4.2
 autopep8==2.0.4
 beautifulsoup4==4.12.2
 black==24.2.0
@@ -21,9 +22,11 @@ django-allauth==0.51.0
 django-api-generator==1.0.17
 django-debug-toolbar==4.2.0
 django-dynamic-datatb==1.0.25
+django-filter==24.2
 django-sslserver==0.22
 django-theme-material-kit==1.0.18
 djangorestframework==3.14.0
+Faker==24.4.0
 fastapi==0.100.1
 flake8==7.0.0
 Flask==3.0.0
@@ -41,9 +44,11 @@ httplib2==0.22.0
 httptools==0.6.0
 idna==3.4
 install==1.3.5
+isort==4.3.21
 itsdangerous==2.1.2
 Jinja2==3.1.2
 kiwisolver==1.4.4
+lazy-object-proxy==1.4.3
 MarkupSafe==2.1.3
 matplotlib==3.7.1
 mccabe==0.7.0
@@ -68,6 +73,7 @@ pydantic==2.1.1
 pydantic_core==2.4.0
 pyflakes==3.2.0
 PyJWT==2.7.0
+pylint==2.5.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
 python-dotenv==1.0.0
@@ -85,13 +91,16 @@ sqlparse==0.4.4
 starlette==0.27.0
 tabulate==0.9.0
 tk==0.1.0
+toml==0.10.1
 typing==3.7.4.3
 typing_extensions==4.7.1
 tzdata==2023.3
 uritemplate==4.1.1
 urllib3==2.0.3
 uvicorn==0.23.1
+validate-docbr==1.10.0
 watchfiles==0.19.0
 websockets==11.0.3
 Werkzeug==3.0.1
 whitenoise==6.6.0
+wrapt==1.12.1
